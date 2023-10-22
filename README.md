@@ -57,3 +57,6 @@ Challenges - initializing the sensor onto Arduino and further python script enha
 movement and the difficulty of the game. Challenges - initializing the sensor onto Arduino and
 further python script enhancements.
 
+\
+![image](https://github.com/maliangone/iot-snake-attack/assets/41778835/2a67ae41-4288-479d-9384-bb6ef5e76d24)
+
